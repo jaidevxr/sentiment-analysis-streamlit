@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,Positive
+This is amazing,Positive
+Excellent service,Positive
+Very happy with the purchase,Positive
+Fantastic quality,Positive
+Absolutely wonderful experience,Positive
+Highly recommended,Positive
+Best phone ever,Positive
+The food was delicious,Positive
+Great customer support,Positive
+I hate this product,Negative
+Very disappointed,Negative
+Worst experience ever,Negative
+The service was terrible,Negative
+Poor quality,Negative
+Completely useless,Negative
+Waste of money,Negative
+Not satisfied at all,Negative
+Very bad experience,Negative
+Awful product,Negative
+The meeting starts at 10 AM,Neutral
+Today is Monday,Neutral
+The package arrived today,Neutral
+The weather is sunny,Neutral
+The report is ready,Neutral
+The train leaves at 5 PM,Neutral
+I have completed the assignment,Neutral
+This laptop costs $500,Neutral
+The class begins tomorrow,Neutral
+The store opens at 9 AM,Neutral
